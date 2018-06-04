@@ -1,0 +1,1 @@
+const tax_rate = 0.06;
